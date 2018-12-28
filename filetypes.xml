@@ -1,0 +1,15 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="wxss" type="CSS" />
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping ext="wxml" type="HTML" />
+      <mapping pattern="divideDoctorByDept" type="JSON" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="java" type="PLAIN_TEXT" />
+      <mapping ext="m" type="PLAIN_TEXT" />
+      <mapping ext="wpy" type="Vue.js" />
+      <mapping ext="plist" type="XML" />
+    </extensionMap>
+  </component>
+</application>

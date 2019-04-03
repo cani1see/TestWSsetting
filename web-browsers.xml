@@ -2,7 +2,6 @@
   <component name="WebBrowsersConfiguration" showHover="false">
     <browser id="1812e025-0a6c-452d-a68c-3a26a9279e3b" name="Chrome" family="CHROME" path="/Applications/Google Chrome.app">
       <settings>
-        <command-line-options>-headless --disable-gpu</command-line-options>
         <user-data-dir>$APPLICATION_CONFIG_DIR$/chrome-user-data</user-data-dir>
       </settings>
     </browser>

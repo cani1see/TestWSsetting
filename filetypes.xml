@@ -4,6 +4,7 @@
       <mapping ext="wxss" type="CSS" />
       <mapping ext="wxml" type="HTML" />
       <mapping pattern="divideDoctorByDept" type="JSON" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="urls" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />

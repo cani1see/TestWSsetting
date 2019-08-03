@@ -1,5 +1,10 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+  </action>
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="QuickChangeScheme" />
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="meta i" />
   </action>

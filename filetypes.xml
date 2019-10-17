@@ -2,16 +2,19 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="wxss" type="CSS" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="wxml" type="HTML" />
       <mapping pattern="divideDoctorByDept" type="JSON" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="urls" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="flat" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="java" type="PLAIN_TEXT" />
       <mapping ext="m" type="PLAIN_TEXT" />
+      <mapping ext="pro" type="PLAIN_TEXT" />
       <mapping ext="wpy" type="Vue.js" />
       <mapping ext="plist" type="XML" />
       <mapping pattern=".gitignore_global" type="Git file" />

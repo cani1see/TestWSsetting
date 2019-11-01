@@ -13,6 +13,7 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.less</mask>
+    <mask>styles.js</mask>
     <mask>*.js</mask>
   </component>
 </application>

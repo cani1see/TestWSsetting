@@ -10,6 +10,10 @@
           <option name="url" value="http://10.2.113.36:7990" />
           <option name="userName" value="luhao" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.3.118:3000" />
+          <option name="userName" value="mrt.left@gmail.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
